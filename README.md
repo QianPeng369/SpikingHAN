@@ -1,5 +1,4 @@
 ﻿# Spiking Heterogenous Graph Attention Network (SpikingHAN)
-// This repository is for SpikingHAN model by [@Qian Peng](https://github.com/QianPeng369).
 
 ## Requirements	
 
