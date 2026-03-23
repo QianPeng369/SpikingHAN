@@ -1,5 +1,7 @@
 ﻿# Spiking Heterogenous Graph Attention Network (SpikingHAN)
 
+**Note**: Please see the link (https://arxiv.org/abs/2601.02401) for the full version of the paper.
+
 ## Requirements	
 
  - Python == 3.8.16
